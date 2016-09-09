@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-standard-pure-fp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint rules for JS Standard Style + strict, pure functional programming in JS",
   "main": "index.js",
   "keywords": [
