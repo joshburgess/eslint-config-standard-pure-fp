@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-standard-pure-fp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint rules for JS Standard Style + strict, pure functional programming in JS",
   "main": "index.js",
   "keywords": [
@@ -58,19 +58,12 @@
     "name": "Josh Burgess",
     "url": "https://github.com/joshburgess"
   },
-  "license": "MIT",
+  "license": "LGPL-3.0+",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/joshburgess/eslint-config-standard-pure-fp.git"
   },
   "peerDependencies": {
-    "eslint": "^3.4.0",
-    "eslint-config-standard": "^6.0.0",
-    "eslint-plugin-fp": "^2.1.0",
-    "eslint-plugin-promise": "^2.0.1",
-    "eslint-plugin-standard": "^2.0.0"
-  },
-  "dependencies": {
     "eslint": "^3.4.0",
     "eslint-config-cleanjs": "^4.0.0",
     "eslint-config-standard": "^6.0.0",
