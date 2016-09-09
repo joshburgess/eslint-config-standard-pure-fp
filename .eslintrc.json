@@ -1,0 +1,15 @@
+{
+  "extends": ["standard", "cleanjs"],
+  "parserOptions": {
+    "ecmaVersion": 7,
+    "sourceType": "module",
+    "experimentalObjectRestSpread": true
+  },
+  "plugins": [
+    "better",
+    "fp",
+    "import",
+    "promise",
+    "standard"
+  ]
+}
