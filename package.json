@@ -68,7 +68,7 @@
       "eslint-config-cleanjs": "^4.0.0",
       "eslint-config-standard": "^6.0.0"
     }
-  }
+  },
   "peerDependencies": {
     "eslint": "^3.4.0",
     "eslint-plugin-better": "^0.1.5",
