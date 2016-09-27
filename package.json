@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-standard-pure-fp",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ESLint rules for JS Standard Style + strict, pure functional programming in JS",
   "main": "index.js",
   "keywords": [
@@ -65,13 +65,13 @@
   },
   "dependencies": {
     "eslint-config-cleanjs": "^4.0.0",
-    "eslint-config-standard": "^6.0.0"
+    "eslint-config-standard": "^6.1.0"
   },
   "peerDependencies": {
-    "eslint": "^3.4.0",
+    "eslint": "^3.6.1",
     "eslint-plugin-better": "^0.1.5",
     "eslint-plugin-fp": "^2.2.0",
-    "eslint-plugin-import": "^1.14.0",
+    "eslint-plugin-import": "^1.16.0",
     "eslint-plugin-promise": "^2.0.1",
     "eslint-plugin-standard": "^2.0.0"
   }
