@@ -10,12 +10,12 @@ Based on [eslint-config-standard](https://github.com/feross/eslint-config-standa
 First, install the eslint config & required plugins.
 
 ```bash
-npm i -D eslint-config-standard-pure-fp
-npm i -D eslint-plugin-better
-npm i -D eslint-plugin-fp
-npm i -D eslint-plugin-import
-npm i -D eslint-plugin-promise
-npm i -D eslint-plugin-standard
+yarn install --dev eslint-config-standard-pure-fp
+yarn install --dev eslint-plugin-better
+yarn install --dev eslint-plugin-fp
+yarn install --dev eslint-plugin-import
+yarn install --dev eslint-plugin-promise
+yarn install --dev eslint-plugin-standard
 ```
 
 Then, add this to your .eslintrc.json file:
